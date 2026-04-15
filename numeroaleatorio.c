@@ -19,7 +19,7 @@ int main(int argc, char *argv[])
 
     printf("O número aleatório é %d\n", numero);
 
-    printf("Feito por Thiago Bonfanti")
+    printf("Feito por Thiago Bonfanti");
 
     return 0;
 }
